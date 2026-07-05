@@ -196,3 +196,4 @@ function renderErrorCard(message) {
   <text x="20" y="55" class="err-msg">${escapeXml(message)}</text>
 </svg>`.trim();
     }
+
